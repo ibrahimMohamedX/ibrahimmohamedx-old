@@ -52,8 +52,10 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect with me:
-* [cite_start]**LinkedIn:** [linkedin.com/in/ibrahim14mohamed](https://www.linkedin.com/in/ibrahim14mohamed) [cite: 5]
+* [cite_start]**website:** [[linkedin.com/in/ibrahim-mohamedx](https://www.linkedin.com/in/ibrahim-mohamedx)](https://himego.vercel.app/en) [cite: 5]
+* [cite_start]**Email:** ibrahimmohamed09854@gmail.com [cite: 4]
 * [cite_start]**Email:** Ffhg09854@gmail.com [cite: 4]
+* [cite_start]**LinkedIn:** [linkedin.com/in/ibrahim-mohamedx](https://www.linkedin.com/in/ibrahim-mohamedx) [cite: 5]
 * [cite_start]**Location:** Cairo, Egypt [cite: 3]
 
 ---
