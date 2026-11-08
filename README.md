@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! I'm Ibrahim Mohamed Ibrahim 👋
+# Hi there! I'm Ibrahim Mohamed - himego👋
 
 [cite_start]I am a motivated and detail-oriented **Mobile Application Developer** with hands-on experience in **Flutter and Dart**[cite: 2, 6]. [cite_start]I specialize in building high-performance apps using **Clean Architecture (MVVM)**, **State Management (Cubit)**, and **API integration**[cite: 6].
 
